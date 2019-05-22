@@ -4,7 +4,7 @@
 
 
 ### 运行结果
-<img src="./IMG.jpg">
+<img src="IMG.jpg">
 
 
 
